@@ -1,0 +1,15 @@
+환경설정 - 빌드하고 실행하기
+    서버 끄고!
+
+    윈도우 사용자를 위한 팁
+    콘솔로 이동 명령 프롬프트(cmd)로 이동
+    ./gradlew gradlew.bat 를 실행하면 됩니다.
+    명령 프롬프트에서 gradlew.bat 를 실행하려면 gradlew 하고 엔터를 치면 됩니다.
+    gradlew build
+    폴더 목록 확인 ls dir
+    윈도우에서 Git bash 터미널 사용하기
+    링크: https://www.inflearn.com/questions/53961
+
+    git bash 터미널 사용 해보기 !! - 설정완료 bash기능을 사용할 수 있어서 사용하는 것이 좋습니다.
+
+    서버 배포할때는 파일만 복사해서 서버에 넣고 cmd로 실행시키면 서버에서도 스프링이 동작을 하게된다.
