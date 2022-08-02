@@ -1,0 +1,7 @@
+회원 관리 예제 - 회원 웹 기능 - 조회
+    템플릿엔진(타임리프)가 해주는 역할은?
+    addAttribute로 members란 이름으로 값들을 다 넣어서 보내주고
+    members중 하나를 뽑아서 member에 넣고 id와 name을 뽑아내는것
+    id와 name이라 적혀져 있지만 getter, setter를 이용해서 가져오는것! (보통 getter)
+
+    메모리에 올려놓은것이기 때문에 서버를 껏다키면 데이터가 다 지워진다.
